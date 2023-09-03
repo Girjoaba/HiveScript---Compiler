@@ -1,3 +1,0 @@
-/home/girji/cs/compilers/YAPC-Yet-Another-Practice-Compiler/dev/yapc/build/CMakeFiles/yapc.dir
-/home/girji/cs/compilers/YAPC-Yet-Another-Practice-Compiler/dev/yapc/build/CMakeFiles/edit_cache.dir
-/home/girji/cs/compilers/YAPC-Yet-Another-Practice-Compiler/dev/yapc/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/yap.dir/src/main.cpp.o -o yap 
