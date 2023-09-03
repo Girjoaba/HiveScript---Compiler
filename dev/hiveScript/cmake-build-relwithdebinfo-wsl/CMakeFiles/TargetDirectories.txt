@@ -1,0 +1,3 @@
+/mnt/d/CompSci/C++/HiveScript-Compiler/dev/hiveScript/cmake-build-relwithdebinfo-wsl/CMakeFiles/hive.dir
+/mnt/d/CompSci/C++/HiveScript-Compiler/dev/hiveScript/cmake-build-relwithdebinfo-wsl/CMakeFiles/edit_cache.dir
+/mnt/d/CompSci/C++/HiveScript-Compiler/dev/hiveScript/cmake-build-relwithdebinfo-wsl/CMakeFiles/rebuild_cache.dir

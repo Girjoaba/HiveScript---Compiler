@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/hive.dir/src/main.cpp.o -o hive 
