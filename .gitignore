@@ -31,5 +31,11 @@
 *.out
 *.app
 
-# CLion
+# IDE specific
 **/cmake-build*
+.idea
+.vscode
+
+# Compiler Specific files
+*.asm
+

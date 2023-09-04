@@ -1,3 +1,0 @@
-/mnt/d/CompSci/C++/YAPC/YAPC-Yet-Another-Practice-Compiler/dev/yapc/cmake-build-relwithdebinfo-wsl/CMakeFiles/yapc.dir
-/mnt/d/CompSci/C++/YAPC/YAPC-Yet-Another-Practice-Compiler/dev/yapc/cmake-build-relwithdebinfo-wsl/CMakeFiles/edit_cache.dir
-/mnt/d/CompSci/C++/YAPC/YAPC-Yet-Another-Practice-Compiler/dev/yapc/cmake-build-relwithdebinfo-wsl/CMakeFiles/rebuild_cache.dir
